@@ -1,0 +1,20 @@
+SISTEMA DE AUTOMAÇÃO DA BASE 1 PARA CERTIFICADOS VENCIDOS.
+
+REQUISITOS:
+-NOTEBOOK LENOVO IdeaPad 3 (para conferir é só olhar embaixo do nootebok)
+-TELA SECUNDÁRIA PARA ABRIR O VSCODE
+
+INSTRUÇÕES:
+-Abrir a base 1 na tela do NOTEBOOK (NÃO PODE SER NA TELA SECUNDÁRIA)
+-Abrir o VScode na tela secundária 
+-Na tela secundária clique em File (canto superior esquerdo)
+-Clique em Open Folder e seleciona a pasta "Automaçã Certificados Vencidos"
+-Na pasta, terá uma aba nomeada "codigos2401.txt", você usará somente essa página
+-Na pasta dita acima, coloque os códigos das empresas que deseja renovar o certificado vencido e aperte "Ctrl + S" para salvar os códigos que você inseriu 
+-Na tela primária, abra a base 1 e abra a aba "Empresas" e não mexa mais em nada
+-Após isso, no VScode, abra a pasta "automation.py" e clique no botão com o simbolo de Play (canto superior direito)
+-Começará a rodar na tela principal a automação
+-Para interromper a automação, basta arrastar o cursor do mouse para o canto superior esquerdo da tela principal e segurar o cursor lá por alguns segundos
+
+
+OBS. É importante que você abra a aba Empresas e não altere o local dela na tela, pois a automação é baseada na localização :) 
